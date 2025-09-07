@@ -26,7 +26,7 @@ jupyter notebook
 - eda_modelagem.ipynb
 - teste_modelo.ipynb
 
-3. Para usar o modelo no Jupyter:
+3. Para usar o modelo no Jupyter ou semelhantes:
 ```
 import pickle
 
