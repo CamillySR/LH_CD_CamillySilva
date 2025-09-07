@@ -4,12 +4,12 @@ Este projeto realiza uma análise exploratória de dados (EDA) de um banco cinem
 
 ### Intalação
 
-Clone este repositório:
+Passo 1: Clone este repositório:
 ```
 git clone https://github.com/CamillySR/LH_CD_CamillySilva.git
 cd LH_CD_CamillySilva
 ```
-Instale os pacotes necessários:
+Passo 2: Instale os pacotes necessários:
 
 ```
 pip install -r requirements.txt
@@ -17,16 +17,16 @@ pip install -r requirements.txt
 ```
 ### Como Executar
 
-Abra o Jupyter Notebook:
+1. Abra o Jupyter Notebook:
 ```
 jupyter notebook
 ```
 
-Abra os notebooks:
+2. Abra os notebooks:
 - eda_modelagem.ipynb
 - teste_modelo.ipynb
 
-Para usar o modelo no Jupyter:
+3. Para usar o modelo no Jupyter:
 ```
 import pickle
 
