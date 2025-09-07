@@ -27,7 +27,6 @@ jupyter notebook
 Abra os notebooks:
 - eda_modelagem.ipynb
 - teste_modelo.ipynb
-- 
 
 Para usar o modelo no Jupyter:
 ```
