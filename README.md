@@ -20,7 +20,9 @@ cd LH_CD_CamillySilva
 ### Como Executar
 Abra o Jupyter Notebook:
 
+```
 jupyter notebook
+```
 
 Abra os notebooks:
 - eda_modelagem.ipynb
