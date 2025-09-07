@@ -2,7 +2,7 @@
 
 Este projeto realiza uma análise exploratória de dados (EDA) de um banco cinematográfico e constrói um modelo preditivo para estimar a nota do IMDB dos filmes. O objetivo é fornecer orientações sobre que tipo de filme deve ser produzido.
 
-### Intalação
+### Instalação
 
 Passo 1: Clone este repositório:
 ```
